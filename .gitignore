@@ -1,0 +1,27 @@
+# Data files
+data/raw/*
+data/processed/*
+*.pkl
+*.npy
+
+# Model files
+outputs/models/*
+*.h5
+*.pt
+*.pth
+*.keras
+
+# Output files
+outputs/figures/*
+outputs/reports/*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
