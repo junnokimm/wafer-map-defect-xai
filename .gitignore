@@ -13,7 +13,7 @@ outputs/models/*
 
 # Output files
 outputs/figures/*
-outputs/reports/*
+outputs/reports/.gitkeep
 
 # Python cache
 __pycache__/
