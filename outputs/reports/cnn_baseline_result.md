@@ -1,4 +1,3 @@
-@'
 # CNN Baseline Result Summary
 
 ## 1. 실험 개요
